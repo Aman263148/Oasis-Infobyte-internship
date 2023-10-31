@@ -2,6 +2,7 @@
 Hello Everyone 
 I am doing My internship with OASIS INFOBYTE.This internship is very helpful in my career. In this internship I work on some real life projects. These projects are most comman in Data Science.
 The Projects are
+
 1- IRIS FLOWER CLASSIFICATION 
     This model is mainly based on the IRIS FLOWER CLASSIFICATION. In this project IRIS FLOWER has three species: Setosa, Versicolor and Virginica, which differ  according to their measurements.
     Now We have to train a machine learning model who predicts the type of Species by  the measurement of IRIS FLOWER.
